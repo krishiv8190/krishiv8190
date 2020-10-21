@@ -7,9 +7,5 @@
 
 
 
-You can find me on [![Telegram][1]
+You can find me on Telegram [@Chhandler_Bing](https://t.me/Chhandler_Bing)
 
-
-<!-- Links to your social media accounts -->
-
-[1]: https://t.me/Chhandler_Bing
